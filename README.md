@@ -1,12 +1,11 @@
 # Speech-Emotion-Recognition
-Speech Emotion Recognition
+
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Audio Emotion Recognition</title>
 </head>
 <body>
     <h1>Audio Emotion Recognition</h1>
@@ -60,18 +59,14 @@ Speech Emotion Recognition
   <h2>Conclusion</h2>
     <p>This project demonstrated the effective use of data processing, augmentation, feature extraction, and machine learning techniques in recognizing emotions from audio signals. Further improvements can be made by fine-tuning the model and exploring additional features.</p>
 
-  <h2>How to Run</h2>
-    <ol>
-        <li>Navigate to the project directory:
-            <pre><code>[https://colab.research.google.com/drive/1ww8947kyQaGLomimrml1-pYplPCkCMm4#scrollTo=C5zV9vybXZOJ</code></pre>
-        </li>
-        <li>Run the analysis in Google Colab by uploading the provided notebook.</li>
-    </ol>
 
   <h2>References</h2>
     <ul>
+        <li><a href="https://devopedia.org/audio-feature-extraction">https://devopedia.org/audio-feature-extraction</a></li>
         <li><a href="https://www.kaggle.com/">Kaggle Dataset</a></li>
         <li><a href="https://colab.research.google.com/">Google Colab</a></li>
+        <li><a href="https://towardsdatascience.com/extract-features-of-music-75a3f9bc265d/">https://towardsdatascience.com/extract-features-of-music-75a3f9bc265d</a></li>
+        <li><a href="https://medium.com/@makcedward/data-augmentation-for-audio-76912b01fdf6">https://medium.com/@makcedward/data-augmentation-for-audio-76912b01fdf6</a></li>
     </ul>
 
   <h2>License</h2>
