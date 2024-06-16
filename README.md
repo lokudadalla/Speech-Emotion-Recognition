@@ -8,7 +8,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>Audio Emotion Recognition</h1>
     <p>This project focuses on recognizing emotions from audio signals using various data processing, feature extraction, and machine learning techniques. The dataset was sourced from Kaggle and the analysis was performed in Google Colab.</p>
 
   <h2>Dataset</h2>
